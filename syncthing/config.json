@@ -3,7 +3,7 @@
     "version": "1.6.1",
     "slug": "syncthing",
     "description": "syncthing synchronization service",
-    "url": "https://github.com/bestlibre/hassio-addons/tree/master/syncthing",
+    "url": "https://github.com/thimic/hassio-addons/tree/master/syncthing",
     "startup": "system",
     "boot": "auto",
     "image": "thimic/{arch}-syncthing",
